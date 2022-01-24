@@ -25,3 +25,16 @@ When finished, you should be able to trade your documentation with any other gro
 You can also look at docs you've referred to before for inspiration, both large (Express, React, etc.) and smaller-scale (Chalk, Nodemon, etc.).
 
 ## Write your documentation below:
+# Calculator App by Ted Phillips
+## Description
+Thank you for your interest in this calculator app. This app is primarily for people looking to do simple calculations using BIDMAS. 
+![description image of calculator app](2022-01-24 (1).png)
+## Installation
+1. Pull down the repository locally. 
+2. In the terminal enter `npm i` to install the packages.
+3. Run a live server.
+4. Calculate!
+## How to Use
+1. Enter a number.
+2. Enter an operator.
+3. Hit equals.
